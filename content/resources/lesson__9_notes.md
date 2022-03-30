@@ -4,6 +4,7 @@ description: 'This Lecture Note contains: Incompressible Elasticity; Hooke''s La
   Governing Equations; Volumetric and Deviatoric Components of "Kh".'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-225-computational-mechanics-of-materials-fall-2003/0b71963c3d0ac7f329cf352ec8419dd0_lesson__9_Notes.pdf
 file_type: application/pdf
+parent_uid: 930e7941-f882-2033-7c3e-d0d6176f903c
 resourcetype: Document
 title: lesson__9_Notes.pdf
 uid: 0b71963c-3d0a-c7f3-29cf-352ec8419dd0

@@ -4,6 +4,7 @@ description: 'This Lecture Note contains: Energy Conservation/Dissipation; Abstr
   Algorithms; Convergence; Conditions of Convergence; Consistency.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-225-computational-mechanics-of-materials-fall-2003/a8691e3ac91aea9d950e0a943c6c5494_lecture_21.pdf
 file_type: application/pdf
+parent_uid: 930e7941-f882-2033-7c3e-d0d6176f903c
 resourcetype: Document
 title: lecture_21.pdf
 uid: a8691e3a-c91a-ea9d-950e-0a943c6c5494

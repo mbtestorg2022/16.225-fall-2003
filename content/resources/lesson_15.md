@@ -5,6 +5,7 @@ description: 'This Lecture Note contains: Introduce B-matrix (Spatial); Isoparam
   (continued); Material Frame Indifference; Lagrangian Moduli.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-225-computational-mechanics-of-materials-fall-2003/425650e25e4fc048ce23e2ef4af134f4_lesson_15.pdf
 file_type: application/pdf
+parent_uid: 930e7941-f882-2033-7c3e-d0d6176f903c
 resourcetype: Document
 title: lesson_15.pdf
 uid: 425650e2-5e4f-c048-ce23-e2ef4af134f4

@@ -7,6 +7,7 @@ description: 'This Lecture Note contains: Material Formulation; Specific Materia
   of Tangent Moduli.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-225-computational-mechanics-of-materials-fall-2003/ec886bdb7416ed450692bcc171ee4aed_lesson__16_Notes.pdf
 file_type: application/pdf
+parent_uid: 930e7941-f882-2033-7c3e-d0d6176f903c
 resourcetype: Document
 title: lesson__16_Notes.pdf
 uid: ec886bdb-7416-ed45-0692-bcc171ee4aed
